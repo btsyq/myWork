@@ -82,6 +82,7 @@ export default function Game() {
       </div>
       <div className="game-info">
         <ol>{"喜喜"}</ol>
+        <ol>{'haha'}</ol>
       </div>
     </div>
   )
