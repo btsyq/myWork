@@ -81,7 +81,7 @@ export default function Game() {
         <Board />
       </div>
       <div className="game-info">
-        <ol>{"喜喜"}</ol>
+        <ol>{"喜喜123"}</ol>
       </div>
     </div>
   )
